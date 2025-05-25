@@ -2,6 +2,12 @@ For this project, you will analyze data on GDP and life expectancy from the Worl
 
 During this project, you will analyze, prepare, and plot data in order to answer questions in a meaningful way.
 
+Has life expectancy increased over time in the six nations?
+Has GDP increased over time in the six nations?
+Is there a correlation between GDP and life expectancy of a country?
+What is the average life expectancy in these nations?
+What is the distribution of that life expectancy?
+
 Project Objectives:
 Use seaborn and Matplotlib to create visualizations
 Become familiar with presenting and sharing data visualizations
